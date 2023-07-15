@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 def storeNamePrint() :
     
     time.sleep(0.2)
@@ -42,4 +36,3 @@ def storeNamePrint() :
     
     for i in list:
         writercsv.writerow(i)
-
